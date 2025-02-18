@@ -1,0 +1,111 @@
+[
+  {
+    "ContainingType": "MusteriAPI.API.Controllers.MusterilerController",
+    "Method": "GetAllMusteriler",
+    "RelativePath": "api/Musteriler",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[MusteriAPI.Domain.Entities.Musteri, MusteriAPI.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MusteriAPI.API.Controllers.MusterilerController",
+    "Method": "CreateMusteri",
+    "RelativePath": "api/Musteriler",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "MusteriAPI.Application.Features.Musteriler.Commands.CreateMusteri.CreateMusteriCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MusteriAPI.API.Controllers.MusterilerController",
+    "Method": "GetMusteriById",
+    "RelativePath": "api/Musteriler/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MusteriAPI.Domain.Entities.Musteri",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MusteriAPI.API.Controllers.MusterilerController",
+    "Method": "UpdateMusteri",
+    "RelativePath": "api/Musteriler/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "MusteriAPI.Application.Features.Musteriler.Commands.UpdateMusteri.UpdateMusteriCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MusteriAPI.API.Controllers.MusterilerController",
+    "Method": "DeleteMusteri",
+    "RelativePath": "api/Musteriler/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

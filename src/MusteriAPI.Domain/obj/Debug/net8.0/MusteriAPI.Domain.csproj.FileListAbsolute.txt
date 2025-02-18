@@ -1,0 +1,11 @@
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Domain\bin\Debug\net8.0\MusteriAPI.Domain.deps.json
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Domain\bin\Debug\net8.0\MusteriAPI.Domain.dll
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Domain\bin\Debug\net8.0\MusteriAPI.Domain.pdb
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Domain\obj\Debug\net8.0\MusteriAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Domain\obj\Debug\net8.0\MusteriAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Domain\obj\Debug\net8.0\MusteriAPI.Domain.AssemblyInfo.cs
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Domain\obj\Debug\net8.0\MusteriAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Domain\obj\Debug\net8.0\MusteriAPI.Domain.dll
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Domain\obj\Debug\net8.0\refint\MusteriAPI.Domain.dll
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Domain\obj\Debug\net8.0\MusteriAPI.Domain.pdb
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Domain\obj\Debug\net8.0\ref\MusteriAPI.Domain.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6wf1+tq5ATkv/erKJbhiv3wVwq1kCTuG53IvCbnUgZs=",
+  "Source": "MusteriAPI.API",
+  "BasePath": "_content/MusteriAPI.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

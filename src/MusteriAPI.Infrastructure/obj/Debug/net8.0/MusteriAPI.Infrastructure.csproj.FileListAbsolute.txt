@@ -1,0 +1,17 @@
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Infrastructure\bin\Debug\net8.0\MusteriAPI.Infrastructure.deps.json
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Infrastructure\bin\Debug\net8.0\MusteriAPI.Infrastructure.dll
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Infrastructure\bin\Debug\net8.0\MusteriAPI.Infrastructure.pdb
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Infrastructure\bin\Debug\net8.0\MusteriAPI.Application.dll
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Infrastructure\bin\Debug\net8.0\MusteriAPI.Domain.dll
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Infrastructure\bin\Debug\net8.0\MusteriAPI.Domain.pdb
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Infrastructure\bin\Debug\net8.0\MusteriAPI.Application.pdb
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Infrastructure\obj\Debug\net8.0\MusteriAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Infrastructure\obj\Debug\net8.0\MusteriAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Infrastructure\obj\Debug\net8.0\MusteriAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Infrastructure\obj\Debug\net8.0\MusteriAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Infrastructure\obj\Debug\net8.0\MusteriAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Infrastructure\obj\Debug\net8.0\MusteriA.5BA52CDD.Up2Date
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Infrastructure\obj\Debug\net8.0\MusteriAPI.Infrastructure.dll
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Infrastructure\obj\Debug\net8.0\refint\MusteriAPI.Infrastructure.dll
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Infrastructure\obj\Debug\net8.0\MusteriAPI.Infrastructure.pdb
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Infrastructure\obj\Debug\net8.0\ref\MusteriAPI.Infrastructure.dll

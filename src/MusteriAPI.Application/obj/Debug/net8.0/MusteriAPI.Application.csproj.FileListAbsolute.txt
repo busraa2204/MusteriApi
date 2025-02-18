@@ -1,0 +1,15 @@
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Application\bin\Debug\net8.0\MusteriAPI.Application.deps.json
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Application\bin\Debug\net8.0\MusteriAPI.Application.dll
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Application\bin\Debug\net8.0\MusteriAPI.Application.pdb
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Application\bin\Debug\net8.0\MusteriAPI.Domain.dll
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Application\bin\Debug\net8.0\MusteriAPI.Domain.pdb
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Application\obj\Debug\net8.0\MusteriAPI.Application.csproj.AssemblyReference.cache
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Application\obj\Debug\net8.0\MusteriAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Application\obj\Debug\net8.0\MusteriAPI.Application.AssemblyInfoInputs.cache
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Application\obj\Debug\net8.0\MusteriAPI.Application.AssemblyInfo.cs
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Application\obj\Debug\net8.0\MusteriAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Application\obj\Debug\net8.0\MusteriA.391A49F1.Up2Date
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Application\obj\Debug\net8.0\MusteriAPI.Application.dll
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Application\obj\Debug\net8.0\refint\MusteriAPI.Application.dll
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Application\obj\Debug\net8.0\MusteriAPI.Application.pdb
+C:\Users\Busra\OneDrive\Desktop\TemizBaslangic\src\MusteriAPI.Application\obj\Debug\net8.0\ref\MusteriAPI.Application.dll
